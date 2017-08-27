@@ -1,3 +1,5 @@
 /bin/
 /vendor/
 /cmd/*/debug
+/.vscode
+/oldgit.tgz

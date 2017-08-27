@@ -1,0 +1,8 @@
+package: github.com/cnf/revssh
+description: A reverse SSH client/server
+homepage: https://github.com/cnf/revssh
+import:
+- package: golang.org/x/crypto
+  subpackages:
+  - ssh
+- package: github.com/jpillora/backoff

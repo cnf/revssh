@@ -1,0 +1,14 @@
+hash: 5dee94a6bacf8cb7836e05d4b0c4be80a5e58036cab4fa4f2fad8ef2a97906ce
+updated: 2017-05-27T16:56:53.134318136+02:00
+imports:
+- name: github.com/jpillora/backoff
+  version: 06c7a16c845dc8e0bf575fafeeca0f5462f5eb4d
+- name: golang.org/x/crypto
+  version: 7e9105388ebff089b3f99f0ef676ea55a6da3a7e
+  subpackages:
+  - curve25519
+  - ed25519
+  - ed25519/internal/edwards25519
+  - ssh
+  - ssh/agent
+testImports: []
